@@ -7,8 +7,8 @@ favicon: images/favicon.png # Directory of your favicon (eg. images/favicon.ico)
 name: Mohsen Hosseinzade
 title: Back-End Software Enginner
 email: Mohsen.hz@outlook.com
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+# phone: Your phone number (optional)
+# website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -29,10 +29,10 @@ linkedin_username: hosseinzade
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,7 +49,7 @@ about_profile_image: images/profile.jpg # Directory of profile image (eg. images
 about_content: | # this will include new lines to allow paragraphs
   A self-motivated and energetic enthusiast willing to accept challenges in life, availing every.
   
-  I am proficient in backend software development tools and technologies such as Python, Django, DRF, Postgresql, Mysql, Mongodb, Redis, Git, Github, Docker, Unit testing and Pytest, Regex, web scraping.
+  I am proficient in backend software development tools and technologies such as <mark>Python</mark>, <mark>Django</mark>, <mark>DRF</mark>, <mark>Postgresql</mark>, <mark>Mysql</mark>, <mark>Mongodb</mark>, <mark>Redis</mark>, <mark>Git</mark>, <mark>Github</mark>, <mark>Docker</mark>, <mark>Unit testing and Pytest</mark>, <mark>Regex</mark>, <mark>web scraping</mark>.
   
   I believe in hard work and being a kind human helpful for others.
 
@@ -64,10 +64,10 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+# more_content: | # this will include new lines to allow paragraphs
+#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+#  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
