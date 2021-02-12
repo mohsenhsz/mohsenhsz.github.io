@@ -4,7 +4,7 @@
   dates:  2013 - 2017 
   link: http://www.birjandut.ac.ir/
   qualification: Bachelor's degree, Information Technology
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  # quote: >
+   # Short institution or course description (optional)
+  # description: | # this will include new lines to allow paragraphs
+  #  Description of qualification
