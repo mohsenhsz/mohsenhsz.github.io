@@ -2,15 +2,8 @@
   company: Technical Skills
   quote: >
   description: |
-    General Programming (Python, C/C++, Java, Golang)
-    Web Development (Ruby on Rails (MVC), JavaScript, HTML5, CSS3, Bootstrap, Laravel, PHP) 
-    Databases (SQL-server, MySQL, Postgresql)
-    Open-Source Automation Tools (Bash scripting, Dockers, Kubernetes, Puppet)
-    Operating Systems (Windows, Linux Server (Ubuntu, CentOS), Unix (macOS))
-    Version Control Systems and Software Project management tools (Jira, GitHub, Bit Bucket)
-- layout: left
-  company: Interests
-  quote: >
-  description: |
-    Devops
-    Full Stack Development
+    General Programming (Python)
+    Web Development (Django (MVC), RESTful APIs (DRF), HTML5, CSS3, Bootstrap) 
+    Databases (MySQL, Postgresql, Mongodb, Redis)
+    Open-Source Automation Tools (Dockers)
+    Version Control Systems (Git, GitHub)
