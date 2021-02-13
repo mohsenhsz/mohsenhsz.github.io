@@ -30,7 +30,7 @@
     Nested commenting system
   
 - layout: left
-  name: django-Blog
+  name: Django-Blog
   github: mohsenhsz/Django-Blog
   quote: >
     Simple Blog in Python Django to post articles
