@@ -7,19 +7,7 @@
   description: |
     Provides Web Design and Development services in Python (Django), HTML, CSS, Bootstrap, postgresql.
    
-- layout: left
-  company: Ebn Hesam
-  link: http://ebnhesam.ir/
-  job_title: Web Designer and IT Specialist
-  dates: Feb 2019 - Jun 2020
-  quote: >
-    ▪ Deployment of applications on the cloud.
-    
-    ▪ Manage applications on Docker and Kubernetes.
-    
-    ▪ Development of applications with Golang.
-  description:
-
+   
 - layout: left
   company: Ebn Hesam
   link: http://ebnhesam.ir/
