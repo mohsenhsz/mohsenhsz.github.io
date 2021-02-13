@@ -7,21 +7,16 @@
 
   description: |
     Provides Web Design and Development services in Python (Django), HTML, CSS, Bootstrap, postgresql.
-    
    
    
 - layout: left
   company: Ebn Hesam
   link: http://ebnhesam.ir/
   job_title: Web Designer and IT Specialist
-  dates: Feb 2019 - Jun 2020
+  dates: Feb 2019 - jun 2020
   quote: >
     Design and develop company's website with worpress.
     
-    Provide solutions and systematic implementation of some processes such as shareholder management.
+    Provide solutions and systematic implementation of some processes such as shareholders management.
     
-    Manage and maintain computer networks.
-
-  description: | # this will include new lines to allow paragraphs
-   
-    
+    Manage and maintain computer networks. 
