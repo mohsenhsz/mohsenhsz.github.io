@@ -5,10 +5,10 @@
   quote: >
    An Online shop
   description: |
-    This is an online store with *Django* and *Postgres* where the user model system has been completely rewritten.
+    This is an online store with **Django** and **Postgres** where the user model system has been completely rewritten.
     
     
-    The shopping cart and its processes have been implemented using *sessions*, and it is also possible to use discount coupons and connect to the banking portal. 
+    The shopping cart and its processes have been implemented using **sessions**, and it is also possible to use discount coupons and connect to the banking portal. 
 
 
 - layout: left
