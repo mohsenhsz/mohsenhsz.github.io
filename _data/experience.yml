@@ -21,19 +21,16 @@
   description:
 
 - layout: left
-  company: Upwork
-  link: https://www.upwork.com/freelancers/~0192e3f4fbdeeb1461?viewMode=1
-  job_title: Backend/DevOps Software Engineer
-  dates: 2019 - 2020
+  company: Ebn Hesam
+  link: http://ebnhesam.ir/
+  job_title: Web Designer and IT Specialist
+  dates: Feb 2019 - Jun 2020
   quote: >
-    Worked with many international clients remotely.
+
   description: | # this will include new lines to allow paragraphs
-   Worked as a Backend Engineer and a DevOps Expert.
    
-    ▪ Deployment of applications on the cloud.
+    ▪ Design and develop company's website with worpress.
     
-    ▪ Manage applications on Docker and Kubernetes.
+    ▪ Provide solutions and systematic implementation of some processes such as shareholder management.
     
-    ▪ Development of applications with Golang.
-    
-    ▪ Worked with other programming languages as well such as Python and Perl.
+    ▪ Manage and maintain computer networks.
