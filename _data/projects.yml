@@ -7,13 +7,13 @@
   description: |
     This project is implemented with Django and the following features:
     
-   - Registration and Authentication System
+    ▪ Registration and Authentication System
     
-   - Follow Unfollow system with Ajax
+    ▪ Follow Unfollow system with Ajax
     
-   - Counting views of each post with Redis
+    ▪ Counting views of each post with Redis
     
-   - Nested commenting system
+    ▪ Nested commenting system
   
 - layout: left
   name: django-Blog
