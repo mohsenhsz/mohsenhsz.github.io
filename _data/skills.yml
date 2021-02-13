@@ -3,7 +3,11 @@
   quote: >
   description: |
     General Programming (Python)
-    Web Development (Django (MVC), RESTful APIs (DRF), HTML5, CSS3, Bootstrap) 
+    
+    Web Development (Django (MVC), RESTful APIs (DRF), HTML5, CSS3, Bootstrap)
+    
     Databases (MySQL, Postgresql, Mongodb, Redis)
+    
     Open-Source Automation Tools (Dockers)
+    
     Version Control Systems (Git, GitHub)
