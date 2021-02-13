@@ -1,9 +1,24 @@
 # Project template
-- layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+- layout: left
+  name: Socialpy
+  github: mohsenhsz/socialpy
   quote: >
-    Short overview of the project (optional)
+    Social Networking Platform
+  description: |
+    This project is implemented with Django and the following features:
+    
+    - Registration and Authentication System
+    
+    - Follow Unfollow system with Ajax
+    
+    - Counting views of each post with Redis
+    
+    - Nested commenting system
+  
+- layout: left
+  name: django-Blog
+  github: mohsenhsz/Django-Blog
+  quote: >
+    Simple Blog in Python Django to post articles
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    
