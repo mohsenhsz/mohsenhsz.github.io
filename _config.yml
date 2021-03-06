@@ -49,9 +49,9 @@ about_profile_image: images/profile.jpg # Directory of profile image (eg. images
 about_content: | # this will include new lines to allow paragraphs
   A self-motivated and energetic enthusiast willing to accept challenges in life, availing every.
   
-  I am proficient in backend software development tools and technologies such as <mark>Python</mark>, <mark>Django</mark>, <mark>DRF</mark>, <mark>Postgresql</mark>, <mark>Mysql</mark>, <mark>Mongodb</mark>, <mark>Redis</mark>, <mark>Git</mark>, <mark>Github</mark>, <mark>Docker</mark>, <mark>Unit testing and Pytest</mark>, <mark>Regex</mark> and <mark>web scraping</mark>.
+  I am proficient in backend software development tools and technologies such as <mark>Python</mark>, <mark>Django</mark>, <mark>DRF</mark>, <mark>PostgreSQL</mark>, <mark>MySQL</mark>, <mark>MongoDB</mark>, <mark>Redis</mark>, <mark>Git</mark>, <mark>Github</mark>, <mark>Docker</mark>, <mark>Unit testing and Pytest</mark>, <mark>Regex</mark>, and <mark>web scraping</mark>.
   
-  I believe in hard work and being a kind human helpful for others.
+  I believe in hard work and being a kind human helpful to others.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
